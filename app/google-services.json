@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "742937719938",
+    "project_id": "tobacco-dock"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742937719938:android:49e9d11ccedc5e0c",
+        "android_client_info": {
+          "package_name": "com.sparkcompass.tobaccodock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742937719938-oathfpb1o8q68l3ad5k2er859ts5b22g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sparkcompass.tobaccodock",
+            "certificate_hash": "D0178AE2C3EAE2ACFB5DAE7777F4E68B6361A6C6"
+          }
+        },
+        {
+          "client_id": "742937719938-frhsj5uhs6jj5ro05k0g9g0s0eq0qm2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU9bUxA_ekCnrRwA3sU31gtc58hfbdxMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

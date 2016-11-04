@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/top_corners"
+    android:layout_height="wrap_content"
+    android:layout_width="280dp">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_height="40dp"
+        android:layout_marginTop="13dp"
+        android:layout_width="88dp"
+        android:src="@drawable/ecos_logo" />
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/title"
+        android:layout_below="@+id/logo"
+        android:layout_height="20dp"
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:textColor="@color/white"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/question_text"
+        android:layout_above="@+id/buttons"
+        android:layout_below="@+id/title"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginStart="24dp"
+        android:layout_width="match_parent"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:padding="16dp"/>
+
+</RelativeLayout>

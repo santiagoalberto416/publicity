@@ -1,0 +1,39 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '24.0.2'
+
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    packagingOptions {
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/LICENSE.txt'
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:23.0.1'
+    compile 'com.google.android.gms:play-services-gcm:9.4.0'
+    compile 'net.danlew:android.joda:2.7.1'
+    compile project(':android')
+    compile 'com.facebook.android:facebook-android-sdk:4.7.0'
+    compile files('libraries/twitter4j-core-4.0.1.jar')
+    compile files('libraries/android-dev-logging.jar')
+    compile files('libraries/gimbal.jar')
+    compile files('libraries/spring-android-core-1.0.1.RELEASE.jar')
+    compile files('libraries/spring-android-rest-template-1.0.1.RELEASE.jar')
+    compile 'com.squareup.picasso:picasso:2.5.2'
+}

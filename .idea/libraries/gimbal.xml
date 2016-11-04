@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gimbal">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tcsapi/libraries/gimbal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

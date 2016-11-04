@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="5dp"
+    android:layout_marginEnd="10dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginStart="10dp"
+    android:layout_marginTop="5dp"
+    card_view:cardCornerRadius="5dp"
+    card_view:cardElevation="5dp">
+
+    <RelativeLayout
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="3dp"
+        android:padding="5dp">
+
+        <ImageView
+            android:id="@+id/notification_icon_image"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="10dp"
+            android:adjustViewBounds="true"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/app_name"
+            android:padding="0dp"
+            android:src="@drawable/notification_icon"
+            android:tint="@color/accent"/>
+
+        <TextView
+            android:id="@+id/notification_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@id/notification_icon_image"
+            android:layout_toLeftOf="@+id/buttons_container"
+            android:layout_toRightOf="@id/notification_icon_image"
+            android:layout_toStartOf="@+id/buttons_container"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="@string/some_text"
+            android:textColor="@color/sdia_edit_text_gray"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/notification_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/notification_date"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_toEndOf="@id/notification_icon_image"
+            android:layout_toLeftOf="@+id/buttons_container"
+            android:layout_toRightOf="@id/notification_icon_image"
+            android:layout_toStartOf="@+id/buttons_container"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="@string/some_text"
+            android:textSize="13sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/notification_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/notification_title"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="3dp"
+            android:layout_toEndOf="@id/notification_icon_image"
+            android:layout_toLeftOf="@+id/buttons_container"
+            android:layout_toRightOf="@id/notification_icon_image"
+            android:layout_toStartOf="@+id/buttons_container"
+            android:ellipsize="end"
+            android:maxLines="4"
+            android:text="@string/some_text"
+            android:textSize="13sp" />
+
+        <LinearLayout
+            android:id="@+id/buttons_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:duplicateParentState="false"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/discard_notification"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginBottom="10dp"
+                android:adjustViewBounds="true"
+                android:contentDescription="@null"
+                android:duplicateParentState="false"
+                android:padding="5dp"
+                android:src="@drawable/ic_close"
+                android:tint="@color/sdia_edit_text_gray" />
+
+            <ImageView
+                android:id="@+id/see_notification_button"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:adjustViewBounds="true"
+                android:contentDescription="@null"
+                android:duplicateParentState="false"
+                android:scaleType="fitCenter"
+                android:src="@drawable/icon_go_notification"
+                android:tint="@color/primary" />
+
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

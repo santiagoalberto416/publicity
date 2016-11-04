@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SignInView">
+        <attr name="action" format="enum">
+            <enum name="None" value="0"/>
+            <enum name="GoToForm" value="1"/>
+            <enum name="SignIn" value="2"/>
+            <enum name="SignUp" value="3"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="TextRowView">
+        <attr name="the_label" format="string"/>
+        <attr name="password" format="boolean"/>
+        <attr name="email" format="boolean"/>
+    </declare-styleable>
+</resources>

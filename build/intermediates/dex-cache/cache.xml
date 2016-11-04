@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_9891cf3dfc6610b3e6658eddf81dfc040e9672a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="18e495b860cfc2d0f526015a04f80cc7c099cfdc">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/net.danlew-android.joda-2.7.1_a51e1811d2b6f08e849ab397713e03ee02cef28f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.8/cf615176cd1177edf71d3c9605f8dc148fede6be/otto-1.3.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/otto-1.3.8_20ea1c31ee0c73deb82de2c29d693a71cbb63aa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0defac57fb36715142f348a0c00ed1d83491f3ad">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_60036616939add1e10a4a7c63572c55a55575456/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_5be9f9eec48b04aa2769119aa0fd7ac2d8f802f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_abdda6d6e9bed1f19686e752bcb9d67dd0b78d3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5bdb38b7e4b6094891648c1dc4dc08589b460f97">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.7.0_2b1adcfd416d3ce7efbf4039bc90a9f06ea564ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/net.opacapp/multiline-collapsingtoolbar/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6ddd3c0823455d8c1747bae8bf8f85bf47ab2f2">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/net.opacapp-multiline-collapsingtoolbar-1.0.0_77c0fa176f387d6a69eb6797e7cded65e65f03a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.2.0_615b95dede4d30b7b7e4744583854b89fb2f7719/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_6993f42983b98a83987e0b206e1aa35877801430/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="02cc9f2e5899415add52bc716602b6b38e7eeb99">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-2.6.5_7a81b199573f2537ccfd71fa6728738dde30cf3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_a718a8cf157ce0f2db262cfbd19c701f478fa13d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_936367ea8650876188ccf6df127c52545bee0064/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/tobacco/tcsapi/unspecified/jars/libs/gimbal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4e55c489ce6bf40127d973bb7e8214155f9ef6e5">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/8/gimbal_fdd7d98b15171fdfe926e00dd907f11252edf9b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_06c63ea072c6c99068e5cf9e11110f7cb86e9610/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_2968936383c5b1ad7a1c8c7a5ab010869543506e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_eaf428daa47762b821ce179a9c9a5205610e33e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.10/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ed6b455e3dd7bbf1ff31f8df0b41e2f0d87f3ace">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-answers-1.3.10_34784b805154ea07c45b5509e312e7077571167f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/tobacco/tcsapi/unspecified/jars/libs/spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f182479505ca8a7f5bdcb7202b7e385c261465fa">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/8/spring-android-core-1.0.1.RELEASE_1c7124b2880432a2744de2cb569317c9f97b63d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_db3c5a015dc6f8105d1f7c09ec737394ca50d98b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-beta-1.2.2_2d27d2c688a5eead39d21a93d25f1c242c0dff32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_6db9a3497694bc3cffeea0dfbd93a1f4d9372c5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_b7fecef93ee8bad37d2c964c5c71e2a4b4052548/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_e753f018045b738edcc924f22d8cc722f4af62a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/tobacco/tcsapi/unspecified/jars/libs/spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d880067b6415c0b5133b111c44e126ad5006919c">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/8/spring-android-rest-template-1.0.1.RELEASE_9379eecce8b9f5dbd12c0e32a8abe7675caea3fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.0/da7ba0ee1d30edd955da276cdf01d3d7cb24aedc/dagger-2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="da7ba0ee1d30edd955da276cdf01d3d7cb24aedc">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.0_1f77831f964350a18bb5af05770158ef479653c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_f4740ecd3df55a0f0bdd7b06c56d506afa8be712/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.maps.android-android-maps-utils-0.4.4_f4e109e96fa28c7b158f9efce749a3170b42d5cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_583824df3bae44237196004e633a51de2080eb58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_4bf91fef276cbd5976f37e77b15c9b35a8a0e1ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.14/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7ff77725723167163d69439e3fd077bd0899babf">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-core-2.3.14_1d1b0c1d813aed8c5bd38311d3195918eb0c41fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_ceac9c17474270422a9b5a6e27a53691a50be150/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/.gradle/caches/modules-2/files-2.1/javax.annotation/jsr250-api/1.0/5025422767732a1ab45d93abfea846513d742dcf/jsr250-api-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5025422767732a1ab45d93abfea846513d742dcf">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr250-api-1.0_e836bd244abdc8f5f63f1837e7bf2b6d5b8a5ace/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_6c481ec9df3ba74ada87a4aba2aee9c7415c059b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="81daae5423d84dcfe848218ea986f716975954b3">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_77a7c45f20ac67bfcfda3b72d0577356c7f7f8cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_0085ae7347a7629e511e319305f2a4b0ce642382/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/tobacco/tcsapi/unspecified/jars/libs/twitter4j-core-4.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3c862c213509cacdd22a53b353fab1af3f57c77">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/8/twitter4j-core-4.0.1_69f47e3374a9cebf6b5d513ed5cbd0482e044bc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_65a2b1f3ccf288a54f21deb4a3826c38204e149c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/tobacco/tcsapi/unspecified/jars/libs/android-dev-logging.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e510a61a5da8fa2e00d72c42fd3029e473c7123e">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/8/android-dev-logging_4d0a8fcad377c4af6ed81a4d58867a5fd9d7a97a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.14_6e6f932d4ad05467ded0e911e34dd49db060cd13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_cf1d3972efde50b44eb4ff5cfca1fc22cb6aa032/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.7/b321fd17a60912973a8344da427487c65ccbb552/joda-time-2.7-no-tzdb.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b321fd17a60912973a8344da427487c65ccbb552">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/joda-time-2.7-no-tzdb_496d0ea33763e7fb612fe95aeefc03ba53878186/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_05f022e65e382ea9856edd33e71afe0a12f94e8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/3.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ab8a4903076897a8fe029433ba0c3c3f958712ce">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.sothree.slidinguppanel-library-3.3.1_6098b108e3cd6f32f9a9afacb2e0d8c25778a932/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/skirk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/skirk/Documents/Organized/wait for use/publicityIT/tobacco/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_5a9cce569b0e2ce2fe45215dc8d2c581387ece9c/classes.dex" />
+    </item>
+
+</items>

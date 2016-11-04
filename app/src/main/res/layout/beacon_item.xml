@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.sparkcompass.tobaccodock.beacons.BeaconItem xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:clickable="false">
+
+    <ImageView
+        android:id="@+id/beacon_tray_icon"
+        android:layout_width="@dimen/beacon_icon_width"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="false"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center_vertical"
+        android:adjustViewBounds="true"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/app_name"
+        android:padding="0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/beacon_pop_tcs" />
+
+    <ImageView
+        android:id="@+id/beacon_tray_signal"
+        android:layout_width="@dimen/beacon_icon_width"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="false"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center_vertical"
+        android:adjustViewBounds="true"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/app_name"
+        android:padding="0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/popprox2" />
+
+    <ImageView
+        android:id="@+id/beacon_tray_frame"
+        android:layout_width="@dimen/beacon_icon_width"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="false"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="10dp"
+        android:adjustViewBounds="true"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/app_name"
+        android:padding="0dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/beacon_frame" />
+
+    <TextView
+        android:id="@+id/beacon_tray_item_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/beacon_tray_frame"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="@string/beacon_title"
+        android:textColor="@color/black"
+        android:textSize="14sp" />
+
+
+</com.sparkcompass.tobaccodock.beacons.BeaconItem>
